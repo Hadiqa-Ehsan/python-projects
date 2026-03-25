@@ -1,30 +1,27 @@
 # Personal Budget Tracker
 
-This is a beginner Python project that helps users track their monthly income and expenses.
+## 📌 Description
+A beginner Python project to help users track their monthly income and expenses effectively.
 
-## Features
+## 🚀 Features
+- Add monthly income  
+- Record different expenses  
+- Calculate total expenses  
+- Show remaining budget  
+- Warn if expenses exceed income  
+- Save data to a CSV file  
 
-- Takes monthly income input
-- Records different expenses
-- Calculates total expenses
-- Shows remaining budget
-- Warns if expenses exceed income
-- Saves data to a CSV file
+## 🛠️ Technologies Used
+- Python  
+- File Handling  
+- CSV Data Storage  
 
-## Technologies Used
-
-- Python
-- File Handling
-- CSV Data Storage
-
-## How to Run
-
-1. Download the project
-2. Open terminal in project folder
+## ▶️ How to Run
+1. Download the project  
+2. Open terminal/command prompt in the project folder  
 3. Run the program:
-
-python budget_tracker.py
-
-## Author
-
+   ```bash
+   python budget_tracker.py
+   
+👩‍💻 Author
 Hadiqa Ehsan
